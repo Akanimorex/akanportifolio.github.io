@@ -1,0 +1,169 @@
+
+p{
+	font-family: futura MD Bt;
+	font-size:1.3em;
+	color:grey;
+	line-height:1.7em;
+}
+
+h2{
+	font-weight: bold;
+}
+
+#land{
+	background-image: url(../images/codes.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+	 position:relative;
+}
+
+.go{
+	background-color: #000;
+	opacity: 0.8;
+	filter: opacity(alpha=80);
+	overflow: hidden;
+	width: 100%;
+	height: 100vh;
+
+}
+#land h2{
+	font-family: futura MD Bt;
+	font-size: 3em;
+
+}
+.btn-primary{
+	transition: all 0.5s ease-in-out;
+	color:white;
+	border-radius: 0px 0px 0px 0px;
+}
+.btn-primary:hover{
+	background-color:transparent;
+	border-color: white
+	color:white;
+	margin-top: 1%;
+	border-radius:0px;
+	opacity: 1;
+
+}
+
+#rev{
+	color:black;
+}
+#rev:hover{
+
+color:steelblue;}
+
+.go .col-sm-12,.col-xs-12{
+	margin-bottom: 10%;
+	margin-top: 7%;
+}
+
+#services{
+	text-align: center;
+	margin-top:10%;
+
+}
+#services h6{
+	font-size: 2em;
+	text-align: center;
+
+}
+#services h5{
+	font-weight: bold;
+}
+#services a:hover{
+	text-decoration: none;
+	color: steelblue;
+
+}
+#services a{
+	color:black;
+}
+
+color:steelblue;}
+#services{
+	text-align: center;
+	margin-top:10%;
+
+}
+#services h6{
+	font-size: 2em;
+	text-align: center;
+
+}
+#services h5{
+	font-weight: bold;
+}
+#services a:hover{
+	text-decoration: none;
+	color: steelblue;
+
+}
+#services a{
+	color:black;
+}
+
+.progress{
+	height:6px;
+	overflow: visible;
+	box-shadow: none;
+	overflow: visible;
+
+}
+.progress-bar{
+	position: relative;
+	color:blue;
+	background-color: steelblue;
+}
+.progress-bar:after{
+	position:absolute;
+	border-radius:50%;
+	width:10px;
+	height: 10px;
+	top:-2px;
+	right: 0;
+	background-color: steelblue;
+	content:'';
+
+}
+#test{
+	margin-top: 10%;
+}
+#test .profile{
+	box-shadow: 2px 2px 2px #888;
+	border-radius: 10px;
+
+}
+
+
+#dark h4{
+	margin-top:4%;
+	font-size: 1.3em;
+
+}
+
+#dark .dex{
+	margin-left: 20px;
+}
+#con{
+	margin-top: 10%;
+}
+#arrow{
+	background-color:black;
+	color:white;
+	border-color: black;
+	padding:
+}
+#arrow p{
+	color:white;
+}
+#icons a:hover{
+	background-color:transparent;
+	color:steelblue;
+}
+#icons a{
+	color: white;
+
+}

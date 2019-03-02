@@ -1,0 +1,233 @@
+hr{
+	border-color:grey;
+}
+
+
+h2{
+	font-family: poppins;
+}
+p{
+	font-family: futura MD Bt;
+	font-size:1.3em;
+	color:grey;
+	line-height:1.7em;
+}
+
+
+
+#land{
+	background-image: url(../images/pen.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 90vh;
+	width: 100%;
+	
+}
+.btn-default{
+	transition: all 0.5s ease-in-out;
+	color:white;
+	border-radius: 0px 0px 0px 0px;
+}
+.btn-default:hover{
+	background-color:white;
+	color:black;
+	margin-top: 1%;
+	border-radius: 5px;
+
+}
+
+#land h1{
+margin-top: 10%;
+}
+.mine{
+	height:90vh;
+}
+#about img{
+	width:100%;
+	height:100vh;
+
+
+}
+.btn-default{
+	background-color: transparent;
+	margin-left: 45%;
+}
+#skills h2{
+	text-align: center;
+}
+
+#about h2{
+	text-align: center;
+	
+}
+
+
+.link li{
+	padding:5%;
+	color:grey;
+	font-size:1.3em;
+}
+.form-group{
+	box-shadow: 2px 2px 2px #888;
+	width:;
+}
+
+.progress{
+	height:6px;
+	overflow: visible;
+	box-shadow: none;
+	overflow: visible;
+
+}
+.progress-bar{
+	position: relative;
+	color:blue;
+	background-color: steelblue;
+}
+.progress-bar:after{
+	position:absolute;
+	border-radius:50%;
+	width:10px;
+	height: 10px;
+	top:-2px;
+	right: 0;
+	background-color: steelblue;
+	content:'';
+
+}
+
+
+footer{
+	height:30vh;
+	margin-top:10%;
+	margin-bottom: 9px;
+	text-align: center;
+	font-family: sans-serif;
+	background-color:lightgrey;
+	color:white;
+}
+
+footer h3{
+	font-family: cursive;
+}
+
+#icons a{
+	color:white;
+}
+#icons a:hover{
+	color:steelblue;
+}
+#con .btn-primary{
+	background-color:steelblue;
+	color:black;
+	transition: all 0.5s ease-in-out;
+}
+#con .btn-primary:hover{
+	background-color:blue;
+	color:white;
+	transition: all 0.5s ease-in-out;
+}
+#arrow{
+	background-color:black;
+	color:white;
+	border-color: black;
+	padding:
+}
+#arrow p{
+	color:white;
+}
+#field{
+	border-style: none;
+	padding-bottom: 4px;
+}
+footer .btn-success:hover{
+	box-shadow: 5px 5px 5px #888;
+	transition: all 0.5s ease-in-out;
+}
+
+
+
+
+
+
+.stuff img{
+	padding:10px;
+}
+
+
+
+.profile-img{
+	box-shadow: 5px 5px 5px #888; 
+	width:25%;
+	background-color:white;
+	margin-left:7%;
+	margin-top:5%;
+
+}
+.profile-img h5{
+
+
+	margin-right:10%;
+	
+
+}
+
+.profile-img p{
+	text-align:left;
+	padding: 10px;
+	
+}
+
+
+#test a{
+	color:steelblue;
+}
+
+
+#icons a:hover{
+	background-color:transparent;
+	color:steelblue;
+}
+#icons h4{
+
+}
+
+#test .stuff h5{
+	font-weight: bold;
+
+}
+
+nav > ul > li > a:hover{
+	color: steelblue;
+
+}
+
+
+
+#rev{
+	color:black;
+}
+#rev:hover{
+
+color:steelblue;}
+#services{
+	text-align: center;
+	margin-top:10%;
+
+}
+#services h6{
+	font-size: 2em;
+	text-align: center;
+
+}
+#services h5{
+	font-weight: bold;
+}
+#services a:hover{
+	text-decoration: none;
+	color: steelblue;
+
+}
+#services a{
+	color:black;
+}
