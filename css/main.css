@@ -1,3 +1,12 @@
+/*@media only screen and (max-width: 500px) {
+    body {
+        background-color:azure;
+    }*/
+
+   body{
+   	position: relative;
+   	
+   }
 
 p{
 	font-family: futura MD Bt;
@@ -17,6 +26,7 @@ h2{
 	height: 100vh;
 	width: 100%;
 	 position:relative;
+	 background-attachment: fixed;
 }
 
 .go{
