@@ -12,7 +12,7 @@ p{
 	font-family: futura MD Bt;
 	font-size:1.3em;
 	color:grey;
-	line-height:1.7em;
+	line-height:1.3em;
 }
 
 h2{
@@ -60,6 +60,7 @@ h2{
 
 #rev{
 	color:black;
+	font-weight: bold;
 }
 #rev:hover{
 
@@ -125,7 +126,7 @@ color:steelblue;}
 .progress-bar{
 	position: relative;
 	color:blue;
-	background-color: steelblue;
+	background-color: black;
 }
 .progress-bar:after{
 	position:absolute;
@@ -134,7 +135,7 @@ color:steelblue;}
 	height: 10px;
 	top:-2px;
 	right: 0;
-	background-color: steelblue;
+	background-color: black;
 	content:'';
 
 }
@@ -144,6 +145,11 @@ color:steelblue;}
 #test .profile{
 	box-shadow: 2px 2px 2px #888;
 	border-radius: 10px;
+	margin-top: 5%;
+
+}
+#test .profile .col-xm-12 .col-sm-12{
+	margin-top: 5%;
 
 }
 
