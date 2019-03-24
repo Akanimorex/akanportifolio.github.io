@@ -126,7 +126,7 @@ color:steelblue;}
 .progress-bar{
 	position: relative;
 	color:blue;
-	background-color: black;
+	background-color:#000;
 }
 .progress-bar:after{
 	position:absolute;
@@ -135,7 +135,7 @@ color:steelblue;}
 	height: 10px;
 	top:-2px;
 	right: 0;
-	background-color: black;
+	background-color:#000;
 	content:'';
 
 }
